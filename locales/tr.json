@@ -1,0 +1,57 @@
+{
+  "ui": {
+    "confirm": "Onayla",
+    "cancel": "İptal",
+    "vehicle_category": "Araç kategorisi",
+    "no_vehicle_category": "Böyle bir araç kategorisi yok",
+    "vehicles": "Araçlar",
+    "no_vehicles_found": "Araç bulunamadı",
+    "filters": {
+      "advanced_filters": "Gelişmiş filtreler",
+      "max_price": "Maksimum fiyat",
+      "seats": "Koltuk sayısı",
+      "doors": "Kapı sayısı"
+    },
+    "vehicle_info": {
+      "color_primary": "Birincil renk",
+      "color_secondary": "İkincil renk",
+      "speed": "Hız",
+      "acceleration": "Hızlanma",
+      "braking": "Frenleme",
+      "handling": "Yol tutuşu",
+      "purchase": "Satın al"
+    },
+    "purchase_modal": {
+      "purchase_vehicle": "Araç Satın Al",
+      "purchase_confirm": "%s aracını %d karşılığında satın almak istediğinize emin misiniz?"
+    },
+    "management": {
+      "stock": "Stok",
+      "gallery": "Galeri",
+      "exit": "Çıkış",
+      "vehicle_price": "Araç fiyatı"
+    },
+    "management_gallery": {
+      "add_vehicle": "Galeride araç ekle",
+      "remove_vehicle": "Aracı kaldır",
+      "modal": {
+        "vehicle_select": "Araç Seç",
+        "vehicle_select_description": "Gösterim için stoktan bir araç seçin",
+        "vehicle_nothing_found": "Stokta böyle bir araç bulunamadı",
+        "vehicle_price_description": "Belirtilmezse varsayılan olarak toptan fiyat uygulanır"
+      }
+    },
+    "stock": {
+      "vehicle_make": "Marka",
+      "vehicle_name": "Adı",
+      "vehicle_price": "Fiyat",
+      "vehicle_wholesale": "Toptan fiyat",
+      "vehicle_plate": "Plaka",
+      "vehicle_in_gallery": "Araç galeride sergileniyor",
+      "edit": "Düzenle",
+      "sell": "Sat",
+      "vehicle_sell": "Aracı Sat",
+      "vehicle_sell_text": "%s (%s) aracını %d karşılığında satmak istediğinize emin misiniz?"
+    }
+  }
+}
